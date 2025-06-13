@@ -89,8 +89,8 @@ Melakukan prediksi kondisi penyakit mental berdasarkan 17 fitur numerik yang dib
 ```json
 {
   "features": [
-    0.5, 0.2, 0.8, 0.1, 0.9, 0.3, 0.7, 0.0, 0.6, 0.4,
-    0.2, 0.9, 0.5, 0.7, 0.1, 0.3, 0.8
+    1, 2, 1, 1, 1, 3, 1, 1, 1, 1,
+    2, 1, 1, 1, 1, 3, 1
   ]
 }
 ```
